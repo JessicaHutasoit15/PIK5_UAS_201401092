@@ -1,2 +1,0 @@
-# PIK5_UAS_201401092
-Progress UAS Praktikum PIK5
